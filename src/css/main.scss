@@ -1,0 +1,21 @@
+@import 'color';
+#image {
+    border: 1px salmon;
+    padding: 50px;
+    color: black;
+    background-attachment: fixed;
+    margin: 5%;
+    transform: translate(-50px, -100px);
+}
+
+#new {
+    background-color: white;
+    border: 1px solid red;
+    color: black;
+    cursor: pointer;
+}
+
+#image2,
+#para2 {
+    display: none;
+}
